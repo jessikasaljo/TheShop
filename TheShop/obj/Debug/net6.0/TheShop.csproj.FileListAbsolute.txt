@@ -1,0 +1,15 @@
+/Users/jessika/Projects/TheShop/TheShop/bin/Debug/net6.0/TheShop
+/Users/jessika/Projects/TheShop/TheShop/bin/Debug/net6.0/TheShop.deps.json
+/Users/jessika/Projects/TheShop/TheShop/bin/Debug/net6.0/TheShop.runtimeconfig.json
+/Users/jessika/Projects/TheShop/TheShop/bin/Debug/net6.0/TheShop.dll
+/Users/jessika/Projects/TheShop/TheShop/bin/Debug/net6.0/TheShop.pdb
+/Users/jessika/Projects/TheShop/TheShop/obj/Debug/net6.0/TheShop.csproj.AssemblyReference.cache
+/Users/jessika/Projects/TheShop/TheShop/obj/Debug/net6.0/TheShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessika/Projects/TheShop/TheShop/obj/Debug/net6.0/TheShop.AssemblyInfoInputs.cache
+/Users/jessika/Projects/TheShop/TheShop/obj/Debug/net6.0/TheShop.AssemblyInfo.cs
+/Users/jessika/Projects/TheShop/TheShop/obj/Debug/net6.0/TheShop.csproj.CoreCompileInputs.cache
+/Users/jessika/Projects/TheShop/TheShop/obj/Debug/net6.0/TheShop.dll
+/Users/jessika/Projects/TheShop/TheShop/obj/Debug/net6.0/refint/TheShop.dll
+/Users/jessika/Projects/TheShop/TheShop/obj/Debug/net6.0/TheShop.pdb
+/Users/jessika/Projects/TheShop/TheShop/obj/Debug/net6.0/TheShop.genruntimeconfig.cache
+/Users/jessika/Projects/TheShop/TheShop/obj/Debug/net6.0/ref/TheShop.dll

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{1A9D29AE-3FD7-464F-93AB-E18BC3016F23}|Default">
+  <MonoDevelop.Ide.ItemProperties.TheShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheShop/ShopProgram.cs">
+    <Files>
+      <File FileName="TheShop/Program.cs" />
+      <File FileName="TheShop/ShopProgram.cs" Line="46" Column="36" />
+      <File FileName="TheShop/ShopItem.cs" />
+      <File FileName="TheShop/Fruit.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TheShop" expanded="True">
+            <Node name="TheShop" expanded="True">
+              <Node name="ShopProgram.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
